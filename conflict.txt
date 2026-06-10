@@ -1,1 +1,1 @@
-﻿line1 = alpha
+﻿line1 = beta
